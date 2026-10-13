@@ -2,6 +2,10 @@
 
 RPG universe and game design documentation.
 
+## Start here
+
+Read [the World Overview and AI builder reference](docs/WORLD_OVERVIEW.md) before developing the world or game content. This is the master living document. It distinguishes confirmed canon, tentative scope, working proposals, and open questions.
+
 ## Documentation workflow
 
 Discuss ideas in conversation. Commit story and design decisions when Tibor agrees to them. Proposals are not canon until agreed. Preserve the distinction between confirmed decisions, tentative scope, and open questions.
@@ -11,6 +15,7 @@ Discuss ideas in conversation. Commit story and design decisions when Tibor agre
 - Build an RPG universe with The Legend of Zelda and World of Warcraft as broad reference points.
 - World concept: a living frontier built on another world.
 - World approach: colourful, mysterious adventure.
+- Selected story direction: The Returning Kingdom. A buried civilisation awakens and restores its old landscape, threatening the world built above it.
 - The protagonist stumbles upon a world-ending threat as the game progresses.
 - The story should be epic, with an increasingly alarming journey and multiple story hooks at each stage.
 - Three endings depend on player actions: good, bad, and neutral.
@@ -29,8 +34,8 @@ For the cause of the catastrophe and the world's deeper history, explore the com
 
 ## Open decisions
 
-- What the earlier world was, and how the frontier was built on it.
-- Why the world is ending, why the crisis is occurring now, and how it escalates.
+- The original catastrophe, the buried kingdom's detailed history, and how surface societies developed.
+- The restoration spell's exact rules, limits, power source, and escalation.
 - Magic rules, costs, and their relationship to the catastrophe.
 - Protagonist, personal stakes, cultures, factions, and antagonist.
 - Exact requirements and consequences for the three endings.
@@ -41,3 +46,4 @@ For the cause of the catastrophe and the world's deeper history, explore the com
 
 - 2026-10-13: Recorded the user's initial game premise, ending structure, and tentative map scope.
 - 2026-10-13: Confirmed the living-frontier-built-on-another-world direction and colourful, mysterious adventure approach.
+- 2026-10-13: Adopted The Returning Kingdom and created version 0.1 of the living World Overview with an AI builder reference prompt.
