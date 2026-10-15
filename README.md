@@ -6,6 +6,8 @@ RPG universe and game design documentation.
 
 Read [the World Overview and AI builder reference](docs/WORLD_OVERVIEW.md) before developing the world or game content. This is the master living document. It distinguishes confirmed canon, tentative scope, working proposals, and open questions.
 
+Read [the approved Visual Style](docs/VISUAL_STYLE.md) before creating character art, armour, portraits, or environment illustrations.
+
 ## Documentation workflow
 
 Discuss ideas in conversation. Commit story and design decisions when Tibor agrees to them. Proposals are not canon until agreed. Preserve the distinction between confirmed decisions, tentative scope, and open questions.
