@@ -18,7 +18,7 @@ Use version 02, including the horned Keth, grey Brann and more aquatic male Nyma
 - Colourful, mysterious frontier fantasy with earthy fabrics, weathered leather, dull iron and stone.
 - Warm light and quiet cooler shadows. Avoid photorealism, glossy film rendering, anime treatment and elaborate high fantasy decoration.
 - Apply the same graphic language to characters, equipment and environments.
-- The in-game character budget remains a maximum of 2000 polygons including gear. Painted portrait detail is not permission to increase mesh complexity.
+- Full-body character previews on the character selection screen now target 2900 polygons including gear. This supersedes the previous 2000-polygon reference for those screen models. The detailed portrait thumbnails keep their approved treatment.
 
 ## Current race appearance
 
@@ -42,6 +42,14 @@ The equipment layout remains pants, chest, belt, shoulders, gloves, helmet, two 
 
 Square portraits use a thin plain rounded-square outline in aged muted copper. Keep it subtle, worn and slightly tarnished, with small rounded corners. No thick decorative bevel, ornate corner fittings or polished gold finish. Quiet dark teal backgrounds support the faces.
 
+## Character selection model budget
+
+The large full-body character on the selection screen should visibly reflect a compact 2900-polygon game model including its equipped gear. Preserve the selected character's racial anatomy, proportions, pose and practical costume.
+
+Use a simple silhouette, low-sided limbs and horns, chunky hair, a few broad armour pieces and a cape with few large faces and a simple hem. Paint small seams, buckles, wear and surface variation into textures instead of modelling many separate details. Avoid merely adding a triangular paint pattern to an otherwise highly detailed model.
+
+Keep the small race portrait thumbnails detailed. This model-budget change does not simplify the selection interface or its background. A concept illustration communicates the target; verify the polygon count on the actual 3D asset.
+
 ## Environment and group scenes
 
 Use attractive fantasy surroundings with restrained detail. A few strong environmental shapes and a modest mysterious landmark are enough. Keep characters prominent and their race features legible.
@@ -52,4 +60,4 @@ An illustration's landscape, companions or activity is a visual proposal unless 
 
 ## AI art reference prompt
 
-Use the revised RPGx portraits as the visual reference. Preserve the established racial anatomy and match their faceted, low-poly-inspired forms, hand-painted colour, readable silhouettes, earthy materials and restrained detail. Dress characters in practical locally made medieval frontier armour. Keep fantasy backgrounds atmospheric and uncluttered, with a few strong shapes and limited ornamentation. Brann have grey earthy skin with subtle toad-like markings; Veyli remain fully reptilian with leather armour; male Nymari have clear merfolk features; Keth have horns, moderate goat-like faces and humble desert clothing. Follow the portrait frame specification only for portrait assets. Keep new lore and depicted events provisional until approved.
+Use the revised RPGx portraits as the visual reference. Preserve the established racial anatomy and match their faceted, low-poly-inspired forms, hand-painted colour, readable silhouettes, earthy materials and restrained detail. Dress characters in practical locally made medieval frontier armour. Keep fantasy backgrounds atmospheric and uncluttered, with a few strong shapes and limited ornamentation. Brann have grey earthy skin with subtle toad-like markings; Veyli remain fully reptilian with leather armour; male Nymari have clear merfolk features; Keth have horns, moderate goat-like faces and humble desert clothing. For character selection screens, depict the main full-body character as a simplified 2900-polygon model including gear while retaining the detailed portrait thumbnails and the established UI. Follow the portrait frame specification only for portrait assets. Keep new lore and depicted events provisional until approved.
