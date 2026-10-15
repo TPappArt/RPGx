@@ -44,9 +44,9 @@ Square portraits use a thin plain rounded-square outline in aged muted copper. K
 
 ## Character selection model budget
 
-The large full-body character on the selection screen should visibly reflect a compact 2900-polygon game model including its equipped gear. Preserve the selected character's racial anatomy, proportions, pose and practical costume.
+The large full-body character on the selection screen should visibly reflect a compact 2900-polygon game model including its equipped gear. Match the user's supplied low-poly model reference: chunky clean shapes, broad flat polygon faces, solid matte colour blocks, sparse surface detail and a slightly larger head, hands and feet. Preserve the selected character's racial identity, adult appearance, pose and practical costume.
 
-Use a simple silhouette, low-sided limbs and horns, chunky hair, a few broad armour pieces and a cape with few large faces and a simple hem. Paint small seams, buckles, wear and surface variation into textures instead of modelling many separate details. Avoid merely adding a triangular paint pattern to an otherwise highly detailed model.
+Use a simple silhouette, low-sided limbs and horns, chunky hair, a few broad armour pieces, blocky pouches and boots, and a cape with few large faces and a simple hem. Keep texture accents sparse and flat. Avoid dense scratches, grunge, fabric weave, tiny tears, realistic skin and busy painted triangle patterns. Low-poly should be evident in the model's construction and silhouette, not only in its surface treatment.
 
 Keep the small race portrait thumbnails detailed. This model-budget change does not simplify the selection interface or its background. A concept illustration communicates the target; verify the polygon count on the actual 3D asset.
 
